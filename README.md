@@ -14,6 +14,9 @@ Building reliable applications, scalable APIs, and practical AI-powered solution
 <a href="mailto:business.luckycow@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+<a href="https://github.com/Jose-MainCom">
+  <img src="https://img.shields.io/badge/GitHub-Jose--MainCom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
